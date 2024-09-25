@@ -979,9 +979,18 @@
         80
         103
         'Chrome/107.0.0.0 Mobile Safari/537.36'
-        '   \n___________________________________________________\n\n[•] \x1b[1;32m███╗   ███╗   ██╗  ██╗████████╗██████╗ \n[•] \x1b[1;37m████╗ ████║   ██║  ██║╚══██╔══╝██╔══██╗\n[•] \x1b[1;34m██╔████╔██║   ███████║   ██║   ██████╔╝\n[•] \x1b[1;31m██║╚██╔╝██║   ██╔══██║   ██║   ██╔══██╗\n[•] \x1b[1;36m██║ ╚═╝ ██║██╗██║  ██║██╗██║██╗██████╔╝\n[•] \x1b[1;37m╚═╝     ╚═╝╚═╝╚═╝  ╚═╝╚═╝╚═╝╚═╝╚═════╝                                     \n\x1b[1;37m===================\x1b[1;91mMAHTAB\x1b[1;37m=======================\nâ”ƒ   \x1b[1;37m𝗕𝗥𝗢𝗧𝗛𝗘𝗥      : \x1b[1;37m 𝗨𝗦𝗠𝗔𝗡 𝗥𝗔𝗝𝗣𝗨𝗧                                                           \nâ”ƒ   \x1b[1;32m𝗖𝗥𝗘𝗔𝗧𝗘𝗥 𝗕𝗬   : \x1b[1;32m 𝗦𝗞 𝗔𝗟𝗜                                                    \nâ”ƒ   \x1b[1;32m𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞     : \x1b[1;32m 𝗠𝗔𝗛𝗧𝗔𝗕 𝗔𝗛𝗠𝗔𝗗                                                        \nâ”ƒ   \x1b[1;32m𝗚𝗜𝗧𝗛𝗨𝗕       : \x1b[1;32m 𝗠𝗔𝗛𝗧𝗔𝗕-12                                                         \nâ”ƒ   \x1b[1;32m𝗬𝗢𝗨𝗧𝗨𝗕𝗘      : \x1b[1;32m 𝗦.𝗞 𝗕𝗥𝗔𝗡𝗗 𝗫 𝗚𝗔𝗠𝗜𝗡𝗚                                                 \nâ”ƒ   \x1b[1;36m𝗧𝗢𝗢𝗟 𝗩𝗜𝗥𝗦𝗜𝗢𝗡 : \x1b[1;37m 4.0                                               \n\x1b[1;37m===================\x1b[1;93mMAHTAB\x1b[1;37m========================'
-        '\x1b[1;32m[•] \x1b[1;33mJOIN MY FACEBOOK group ....!'
-        'xdg-open https://www.facebook.com/groups/647866620424527/?ref=share_group_link'
+        '   \n___________________________________________________\n\n[•] \x1b[1;32m
+        
+       x = """
+
+                       __________  ____  __  __
+                     / ____/ __ \/ __ \/ / / /
+                    / /_  / /_/ / /_/ / / / /
+                   / __/  \__, / _, _/ /_/ /
+                  /_/    /____/_/ |_|\____/                       
+                                                 """                                        \n\x1b[1;37m===================\x1b[1;91mFARU X ZOHAN\x1b[1;37m=======================\nâ”ƒ   \x1b[1;37m𝗕𝗥𝗢𝗧𝗛𝗘𝗥      : \x1b[1;37m 𝗭0𝗛9𝗡                                                                   \nâ”ƒ   \x1b[1;32m𝗖𝗥𝗘𝗔𝗧𝗘𝗥 𝗕𝗬   : \x1b[1;32m 𝗙9𝗥𝗨                                                       \nâ”ƒ   \x1b[1;32m𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞     : \x1b[1;32m 𝗕𝗥𝗢𝗞𝗘𝗡 𝗟𝗔𝗥𝗞𝗔'𝗪 𝗛𝗘𝗡𝗥𝗬                                                        \nâ”ƒ   \x1b[1;32m𝗚𝗜𝗧𝗛𝗨𝗕       : \x1b[1;32m H3NRY INXID3                                                        \nâ”ƒ   \x1b[1;32m𝗕𝗥9𝗡𝗗      : \x1b[1;32m 𝗙9𝗥𝗨 𝘅 𝗭0𝗛9𝗡 𝗕𝗥9𝗡𝗗                                                 \nâ”ƒ   \x1b[1;36m𝗧𝗢𝗢𝗟 𝗩𝗜𝗥𝗦𝗜𝗢𝗡 : \x1b[1;37m 4.0                                               \n\x1b[1;37m===================\x1b[1;93mMAHTAB\x1b[1;37m========================'
+        '\x1b[1;32m[•] \x1b[1;33mJOIN MY FACEBOOK id ....!'
+        'xdg-open https://www.facebook.com/61565520028828'
         [Code]
             File Name: INNOCENT BOY
             Object Name: clear
@@ -1062,7 +1071,7 @@
                 '[00] EXIT '
                 '---------------------------------------------------'
                 'Choice : '
-                'xdg-open https://www.youtube.com/@s.kbrandxgaming5025'
+                'xdg-open https://www.whatsapp.com/9235741670'
                 'clear'
                 '======================================================='
                 '\x1b[1;93mINDIA 9670,91778,91878,91879'
@@ -1164,10 +1173,10 @@
                 166     LOAD_CONST                      5: 'Choice : '
                 168     PRECALL                         1
                 172     CALL                            1
-                182     STORE_FAST                      1: mahtab
+                182     STORE_FAST                      1: naruto
                 184     LOAD_GLOBAL                     7: NULL + os
                 196     LOAD_ATTR                       4: system
-                206     LOAD_CONST                      6: 'xdg-open https://www.youtube.com/@s.kbrandxgaming5025'
+                206     LOAD_CONST                      6: 'xdg-open https://www.whatsapp.com/9235741670'
                 208     PRECALL                         1
                 212     CALL                            1
                 222     POP_TOP                         
@@ -1833,7 +1842,7 @@
                 1268    BINARY_SUBSCR                   
                 1278    STORE_FAST                      13: cid
                 1280    LOAD_GLOBAL                     53: NULL + print
-                1292    LOAD_CONST                      51: '\x1b[1;92m[\x1b[1;92mMAHTAB-OK[🥰\x1b[1;92m] \x1b[1;92m'
+                1292    LOAD_CONST                      51: '\x1b[1;92m[\x1b[1;92mFARU-OK[🥰\x1b[1;92m] \x1b[1;92m'
                 1294    LOAD_FAST                       13: cid
                 1296    BINARY_OP                       0 (+)
                 1300    LOAD_CONST                      52: ' | '
@@ -1918,7 +1927,7 @@
                 1744    BINARY_SUBSCR                   
                 1754    STORE_FAST                      13: cid
                 1756    LOAD_GLOBAL                     53: NULL + print
-                1768    LOAD_CONST                      63: '\x1b[1;31m[MAHTAB-CP [😥] '
+                1768    LOAD_CONST                      63: '\x1b[1;31m[FARU-CP [😥] '
                 1770    LOAD_FAST                       13: cid
                 1772    BINARY_OP                       0 (+)
                 1776    LOAD_CONST                      52: ' | '
@@ -1970,7 +1979,7 @@
                 2054    LOAD_CONST                      67: '\r'
                 2056    LOAD_FAST                       5: wa
                 2058    FORMAT_VALUE                    1
-                2060    LOAD_CONST                      68: '   [MAHTAB] \x1b[1;35m['
+                2060    LOAD_CONST                      68: '   [FARU] \x1b[1;35m['
                 2062    LOAD_GLOBAL                     16: loop
                 2074    FORMAT_VALUE                    1
                 2076    LOAD_CONST                      69: '/'
@@ -2581,7 +2590,7 @@
         1574    PUSH_NULL                       
         1576    LOAD_NAME                       0: os
         1578    LOAD_ATTR                       15: system
-        1588    LOAD_CONST                      75: 'xdg-open https://www.facebook.com/groups/647866620424527/?ref=share_group_link'
+        1588    LOAD_CONST                      75: 'xdg-open https://www.facebook.com/profile.php?id=61565520028828'
         1590    PRECALL                         1
         1594    CALL                            1
         1604    POP_TOP                         
